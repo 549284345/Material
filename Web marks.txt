@@ -2,3 +2,4 @@ http://www.52nlp.cn/coursera
 http://www.cnblogs.com/BYRans/p/4700202.html
 https://zhuanlan.zhihu.com/c_128528277
 http://blog.csdn.net/wizardforcel/article/details/54782628
+http://xlsxwriter.readthedocs.io/workbook.html
