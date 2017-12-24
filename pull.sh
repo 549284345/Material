@@ -1,6 +1,6 @@
 echo "======== pull all folders ======== "
 git init
-git add .
-git commit -m "update some files"
-git pull origin master  
+git fetch --all
+git reset --hard origin/master
+git pull
 read -p "Press any key to continue." var
